@@ -8,8 +8,7 @@
 - 🌱 Currently strengthening my DSA and software engineering fundamentals.
 
 ### 🛠️ Tech Stack
-**Languages:** C++, Python, SQL, JavaScript, TypeScript  
-**Development:** FastAPI, React, PostgreSQL, REST APIs  
+**Languages:** C++, Python, SQL, HTML, CSS, JavaScript, TypeScript  
 **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes  
 **AI:** Gemini API, Google AI Studio
 
